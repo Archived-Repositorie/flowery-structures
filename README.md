@@ -1,5 +1,5 @@
 
-<h1 align="center"> Flowery Structures (Datapack) </h1>
+<h1 align="center"> Flowery Structures (Fabric) </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/version-Alpha-yellow?style=for-the-badge">
