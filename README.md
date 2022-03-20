@@ -1,5 +1,5 @@
 
-<h1 align="center"> Flowery Structures </h1>
+<h1 align="center"> Flowery Structures (forge) </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/version-Alpha-yellow?style=for-the-badge">
@@ -25,6 +25,6 @@ Adds many new small structures and by doing that enchancing vanilla experience. 
 
 - [Fabric](https://github.com/JustFoxx/flowery-structures/tree/fabric)
 - [Quilt](https://github.com/JustFoxx/flowery-structures/tree/quilt)   (doesnt exist for now)
-- [Forge](https://github.com/JustFoxx/flowery-structures/tree/forge)   (doesnt exist for now)
+- [Forge](https://github.com/JustFoxx/flowery-structures/tree/forge)
 - [Spigot](https://github.com/JustFoxx/flowery-structures/tree/spigot) (doesnt exist for now)
 - [Datapack](https://github.com/JustFoxx/flowery-structures/tree/datapack)
