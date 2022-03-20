@@ -1,5 +1,5 @@
 
-<h1 align="center"> Flowery Structures </h1>
+<h1 align="center"> Flowery Structures (Datapack) </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/version-Alpha-yellow?style=for-the-badge">
@@ -19,7 +19,7 @@
 </a></p>
 
 <h2 align="center">Description</h2>
-Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side and will support multiple modloaders and plugin loaders with datapack itself
+Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side and will support multiple modloaders and plugin loaders with datapack itself.
 
 <h2 align="center">Links</h2>
 
