@@ -20,3 +20,11 @@
 
 <h2 align="center">Description</h2>
 Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side and will support multiple modloaders and plugin loaders with datapack itself
+
+<h2 align="center">Links</h2>
+
+- [Fabric](https://github.com/JustFoxx/flowery-structures/tree/fabric)
+- [Quilt](https://github.com/JustFoxx/flowery-structures/tree/quilt)   (doesnt exist for now)
+- [Forge](https://github.com/JustFoxx/flowery-structures/tree/forge)   (doesnt exist for now)
+- [Spigot](https://github.com/JustFoxx/flowery-structures/tree/spigot) (doesnt exist for now)
+- [Datapack](https://github.com/JustFoxx/flowery-structures/tree/datapack)
