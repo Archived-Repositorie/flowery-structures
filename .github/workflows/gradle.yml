@@ -9,9 +9,9 @@ name: Java CI with Gradle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ fabric  ]
   pull_request:
-    branches: [ main ]
+    branches: [ fabric ]
 
 jobs:
   build:
