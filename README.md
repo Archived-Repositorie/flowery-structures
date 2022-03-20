@@ -19,3 +19,4 @@
 </a></p>
 
 <h2 align="center">Description</h2>
+Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side
