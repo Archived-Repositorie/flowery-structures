@@ -22,9 +22,7 @@
       "com.github.JustFoxx.FloweryStructuresKt::init"
     ]
   },
-  "mixins": [
-    "flowery.mixins.json"
-  ],
+  "mixins": [],
   "depends": {
     "fabricloader": ">=0.8.7",
     "fabric": "*",
