@@ -24,7 +24,7 @@ Adds many new small structures and by doing that enchancing vanilla experience. 
 <h2 align="center">Links</h2>
 
 - [Fabric](https://github.com/JustFoxx/flowery-structures/tree/fabric)
-- [Quilt](https://github.com/JustFoxx/flowery-structures/tree/quilt)   (doesnt exist for now)
-- [Forge](https://github.com/JustFoxx/flowery-structures/tree/forge)   (doesnt exist for now)
-- [Spigot](https://github.com/JustFoxx/flowery-structures/tree/spigot) (doesnt exist for now)
+- [Quilt](https://github.com/JustFoxx/flowery-structures/tree/quilt)
+- [Forge](https://github.com/JustFoxx/flowery-structures/tree/forge)
+- [PaperMC](https://github.com/JustFoxx/flowery-structures/tree/paper)
 - [Datapack](https://github.com/JustFoxx/flowery-structures/tree/datapack)
