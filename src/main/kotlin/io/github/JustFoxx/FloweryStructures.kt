@@ -1,4 +1,4 @@
-package com.github.JustFoxx
+package io.github.JustFoxx
 
 @Suppress("unused")
 fun init() {
