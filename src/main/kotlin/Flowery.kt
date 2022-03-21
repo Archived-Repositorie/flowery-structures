@@ -1,7 +1,7 @@
 import org.bukkit.plugin.java.JavaPlugin
 
 @Suppress("UNUSED")
-class Kotlin : JavaPlugin() {
+class Flowery : JavaPlugin() {
     init {
         val list =
                 listOf(
