@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.JustFoxx.FloweryStructuresKt::init"
+      "io.github.JustFoxx.FloweryStructuresKt::init"
     ]
   },
   "mixins": [],
