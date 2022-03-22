@@ -19,6 +19,6 @@ class Flowery : JavaPlugin() {
         Datapack()
     }
     override fun onEnable() {
-        this.getServer().getPluginManager().registerEvents(FloweryListener(), this)
+        this.server.pluginManager.registerEvents(FloweryListener(), this)
     }
 }
