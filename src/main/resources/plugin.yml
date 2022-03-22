@@ -3,4 +3,5 @@ name: FloweryStructures
 version: 0.0.1
 api-version: "1.18"
 author: JustFoxx
-description: Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side and will support multiple modloaders and plugin loaders with datapack itself 
+description: Adds many new small structures and by doing that enchancing vanilla experience. It's fully server-side and will support multiple modloaders and plugin loaders with datapack itself
+load: STARTUP

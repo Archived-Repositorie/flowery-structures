@@ -15,4 +15,7 @@ class Flowery : JavaPlugin() {
                 )
         println(list.random())
     }
+    init {
+        Datapack()
+    }
 }
