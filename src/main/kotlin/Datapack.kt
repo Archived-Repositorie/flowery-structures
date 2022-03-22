@@ -19,7 +19,7 @@ class Datapack {
 
 class FloweryListener : Listener {
     @EventHandler(priority = EventPriority.HIGHEST)
-    fun onInit(event: WorldInitEvent) {
+    fun onEvent(event: WorldInitEvent) {
         val world = event.world
         println(world)
     }
