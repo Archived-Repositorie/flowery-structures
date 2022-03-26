@@ -20,7 +20,7 @@ apply from: 'https://raw.githubusercontent.com/thedarkcolour/KotlinForForge/site
 
 version = '[1]'
 group = 'io.github.justfoxx.flowery' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'flowery'
+archivesBaseName = 'flowery-forge'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
