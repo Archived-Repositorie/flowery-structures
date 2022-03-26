@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "flowery",
   "version": "${version}",
-
   "name": "Flowery Structures",
   "description": "Adds many small structures into your world",
   "authors": [
@@ -12,10 +11,8 @@
     "homepage": "https://github.com/JustFoxx/flowery-structures",
     "sources": "https://github.com/JustFoxx/flowery-structures"
   },
-
   "license": "AGPL-3.0",
   "icon": "assets/flowery/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -25,7 +22,7 @@
   "mixins": [],
   "depends": {
     "fabricloader": ">=0.8.7",
-    "fabric": "*",
+    "fabric-resource-loader-v0": "*",
     "fabric-language-kotlin": "*",
     "minecraft": "1.18.2"
   },
