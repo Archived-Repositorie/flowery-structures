@@ -1,1 +1,1 @@
-say loader
+tellraw @a ["",{"text":"[Flowery Structure]","color":"#C800D7"},{"text":" Loaded!","bold":true}]
