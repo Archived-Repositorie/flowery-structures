@@ -1,6 +1,8 @@
 
 <h1 align="center"> Flowery Structures (forge) </h1>
-
+<p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge">
+<img src="https://img.shields.io/badge/Requires-Kotlin%20for%20Forge-7F52FF?style=for-the-badge&logo=kotlin">
+    </a></p>
 <p align="center">
 <img src="https://img.shields.io/badge/version-Alpha-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/Minecraft-1.18.2-62B47A?style=for-the-badge&logo=minecraft">
