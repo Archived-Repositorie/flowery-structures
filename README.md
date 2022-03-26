@@ -2,7 +2,7 @@
 <h1 align="center"> Flowery Structures (Fabric) </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-Alpha-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/version-Beta-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/Minecraft-1.18.2-62B47A?style=for-the-badge&logo=minecraft">
 </a>
 <a href="https://discord.gg/e668hCBGK4">
