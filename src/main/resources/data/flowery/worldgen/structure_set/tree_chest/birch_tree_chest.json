@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:tree_chest/birch_tree_chest",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 15,
+        "separation": 6,
+        "salt": 262553176
+    }
+}

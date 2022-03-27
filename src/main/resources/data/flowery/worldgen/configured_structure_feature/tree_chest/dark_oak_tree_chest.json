@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:village",
+    "config": {
+        "start_pool": "flowery:tree_chest/dark_oak_tree_chest",
+        "size": 1
+    },
+    "biomes": "#flowery:has_tree/dark_oak",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}
