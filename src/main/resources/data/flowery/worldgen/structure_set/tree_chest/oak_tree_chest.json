@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "flowery:oak_tree_chest",
+            "structure": "flowery:tree_chest/oak_tree_chest",
             "weight": 1
         }
     ],
