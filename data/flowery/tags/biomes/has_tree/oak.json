@@ -1,0 +1,14 @@
+{
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:forest",
+        "minecraft:flower_forest",
+        "minecraft:plains",
+        "minecraft:sunflower_plains",
+        "minecraft:river",
+        "minecraft:savanna",
+        "minecraft:wooded_badlands",
+        "minecraft:windswept_forest",
+        "minecraft:meadow"
+    ]
+}
