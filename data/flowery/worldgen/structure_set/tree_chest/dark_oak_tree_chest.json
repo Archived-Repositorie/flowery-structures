@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "flowery:oak_tree_chest",
+            "structure": "flowery:tree_chest/dark_oak_tree_chest",
             "weight": 1
         }
     ],
@@ -9,6 +9,6 @@
         "type": "minecraft:random_spread",
         "spacing": 15,
         "separation": 6,
-        "salt": 1514420658
+        "salt": 5958864092
     }
 }

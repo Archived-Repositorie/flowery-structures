@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "flowery:jungle_big_tree_chest",
+            "structure": "flowery:tree_chest/jungle_big_tree_chest",
             "weight": 1
         }
     ],

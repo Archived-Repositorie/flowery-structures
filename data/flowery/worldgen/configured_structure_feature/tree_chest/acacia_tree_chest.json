@@ -1,10 +1,10 @@
 {
     "type": "minecraft:village",
     "config": {
-        "start_pool": "flowery:birch_tree_chest",
+        "start_pool": "flowery:tree_chest/acacia_tree_chest",
         "size": 1
     },
-    "biomes": "#minecraft:is_forest",
+    "biomes": "#flowery:is_savanna",
     "adapt_noise": true,
     "spawn_overrides": {}
 }

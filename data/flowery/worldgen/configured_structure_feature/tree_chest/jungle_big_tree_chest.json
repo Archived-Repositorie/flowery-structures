@@ -1,7 +1,7 @@
 {
     "type": "minecraft:village",
     "config": {
-        "start_pool": "flowery:jungle_big_tree_chest",
+        "start_pool": "flowery:tree_chest/jungle_big_tree_chest",
         "size": 1
     },
     "biomes": "#flowery:has_tree/jungle_big",

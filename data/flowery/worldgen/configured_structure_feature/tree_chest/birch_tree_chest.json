@@ -1,10 +1,10 @@
 {
     "type": "minecraft:village",
     "config": {
-        "start_pool": "flowery:spruce_tree_chest",
+        "start_pool": "flowery:tree_chest/birch_tree_chest",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/spruce",
+    "biomes": "#minecraft:is_forest",
     "adapt_noise": true,
     "spawn_overrides": {}
 }

@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "flowery:jungle_small_tree_chest",
+            "structure": "flowery:tree_chest/spruce_tree_chest",
             "weight": 1
         }
     ],
@@ -9,6 +9,6 @@
         "type": "minecraft:random_spread",
         "spacing": 15,
         "separation": 6,
-        "salt": 7170086214
+        "salt": 4847753981
     }
 }

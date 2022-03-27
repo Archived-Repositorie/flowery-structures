@@ -1,10 +1,10 @@
 {
     "type": "minecraft:village",
     "config": {
-        "start_pool": "flowery:jungle_small_tree_chest",
+        "start_pool": "flowery:tree_chest/spruce_tree_chest",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/jungle_big",
+    "biomes": "#flowery:has_tree/spruce",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
