@@ -16,7 +16,6 @@ object Flowery {
         for(mod in supported) {
             if (ModList.get().isLoaded(mod.key) && !ModList.get().isLoaded(mod.value)) {
                 logger.warn("Mod ${mod.key} is loaded but ${mod.key} support mod is not loaded")
-                continue
             } else if(ModList.get().isLoaded(mod.value)) {
                 logger.info("Support mod ${mod.value} has been loaded")
             }
