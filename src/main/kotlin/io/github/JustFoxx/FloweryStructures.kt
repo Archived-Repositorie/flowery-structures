@@ -15,7 +15,6 @@ fun init() {
     for(mod in supported) {
         if (FabricLoader.getInstance().isModLoaded(mod.key) && !FabricLoader.getInstance().isModLoaded(mod.value)) {
             logger.warn("Mod ${mod.key} is loaded but ${mod.key} support mod is not loaded")
-            continue
         } else if(FabricLoader.getInstance().isModLoaded(mod.value)) {
             logger.info("Support mod ${mod.value} has been loaded")
         }
