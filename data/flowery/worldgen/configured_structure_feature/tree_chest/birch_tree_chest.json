@@ -4,7 +4,7 @@
         "start_pool": "flowery:tree_chest/birch_tree_chest",
         "size": 1
     },
-    "biomes": "#minecraft:is_forest",
+    "biomes": "#flowery:has_tree/birch",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
