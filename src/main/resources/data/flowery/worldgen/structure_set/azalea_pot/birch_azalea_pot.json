@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:azalea_pot/birch_azalea_pot",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 8,
+        "salt": 939220843
+    }
+}
