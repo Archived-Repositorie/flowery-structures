@@ -8,7 +8,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "flowery:spruce_tree_chest"
+                "location": "flowery:tree_chest/spruce_tree_chest"
             }
         }
     ]

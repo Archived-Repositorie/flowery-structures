@@ -1,5 +1,5 @@
 {
-    "name": "flowery:acacia_tree_chest",
+    "name": "flowery:spruce_azalea_pot",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -8,7 +8,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "projection": "rigid",
                 "processors": "minecraft:empty",
-                "location": "flowery:tree_chest/acacia_tree_chest"
+                "location": "flowery:azalea_pot/spruce_azalea_pot"
             }
         }
     ]

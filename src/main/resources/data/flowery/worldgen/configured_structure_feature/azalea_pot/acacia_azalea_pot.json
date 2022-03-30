@@ -1,10 +1,10 @@
 {
     "type": "minecraft:village",
     "config": {
-        "start_pool": "flowery:tree_chest/birch_tree_chest",
+        "start_pool": "flowery:azalea_pot/acacia_azalea_pot",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/birch",
+    "biomes": "#flowery:has_tree/acacia",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
