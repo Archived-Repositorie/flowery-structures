@@ -1,0 +1,15 @@
+{
+    "name": "flowery:birch_azalea_pot",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "flowery:azalea_pot/birch_azalea_pot"
+            }
+        }
+    ]
+}
