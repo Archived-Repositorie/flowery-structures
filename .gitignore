@@ -30,3 +30,6 @@ bin/
 # fabric
 
 run/
+
+# test files
+_*

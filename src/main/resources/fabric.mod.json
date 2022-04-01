@@ -28,6 +28,7 @@
     "minecraft": "1.18.2"
   },
   "suggests": {
-    "flamingo": "*"
+    "flamingo": "*",
+    "disable_custom_worlds_advice": "*"
   }
 }
