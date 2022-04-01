@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:village",
+    "config": {
+        "start_pool": "flowerycrop:tree_chest/cashew_tree_chest",
+        "size": 1
+    },
+    "biomes": "#croptopia:trees/dark_forest",
+    "adapt_noise": true,
+    "spawn_overrides": {},
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "croptopia"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "structures": [
+        {
+            "structure": "flowerycrop:tree_chest/pear_tree_chest",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 40,
+        "separation": 18,
+        "salt": 7864875
+    },
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "croptopia"
+            ]
+        }
+    ]
+}

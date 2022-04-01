@@ -1,0 +1,15 @@
+{
+    "values": [
+        "plains",
+        "sunflower_plains"
+    ],
+    
+    "fabric:load_conditions": [
+        {
+            "condition": "fabric:all_mods_loaded",
+            "values": [
+                "croptopia"
+            ]
+        }
+    ]
+}
