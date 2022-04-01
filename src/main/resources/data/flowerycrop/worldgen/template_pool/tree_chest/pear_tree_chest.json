@@ -1,0 +1,15 @@
+{
+    "name": "flowerycrop:pear_tree_chest",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "flowerycrop:tree_chest/pear_tree_chest"
+            }
+        }
+    ]
+}
