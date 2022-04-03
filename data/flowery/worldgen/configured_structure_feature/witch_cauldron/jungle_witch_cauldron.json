@@ -4,7 +4,7 @@
         "start_pool": "flowery:witch_cauldron/jungle_witch_cauldron",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/jungle_small",
+    "biomes": "#flowery:has_tree/jungle_big",
     "adapt_noise": true,
     "spawn_overrides": {
         "monster": {
