@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:village",
+    "config": {
+        "start_pool": "flowery:raft/dead_raft",
+        "size": 1
+    },
+    "biomes": "#flowery:overworld/is_water",
+    "adapt_noise": true,
+    "spawn_overrides": {
+        "monster":  {
+            "bounding_box": "full",
+            "spawns": [
+                {
+                    "type": "minecraft:drowned",
+                    "weight": 1,
+                    "maxCount": 3,
+                    "minCount": 1
+                }
+            ]
+        }
+    }
+}
