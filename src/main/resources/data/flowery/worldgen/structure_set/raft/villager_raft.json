@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:raft/villager_raft",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 15,
+        "salt": 99612434
+    }
+}
