@@ -7,8 +7,8 @@
 <img src="https://img.shields.io/badge/version-Beta-yellow?style=for-the-badge">
 <img src="https://img.shields.io/badge/Minecraft-1.18.2-62B47A?style=for-the-badge&logo=minecraft">
 </a>
-<a href="https://discord.gg/e668hCBGK4">
-<img src="https://img.shields.io/discord/910192650576085033?label=discord&style=for-the-badge">
+<a href="https://discord.gg/zhxGWJ78WY">
+<img src="https://img.shields.io/discord/959116881686560898?label=discord&style=for-the-badge">
 </a>
 </p>
 
