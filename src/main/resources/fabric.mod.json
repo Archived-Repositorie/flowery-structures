@@ -25,8 +25,7 @@
     "fabric-resource-loader-v0": "*",
     "fabric-resource-conditions-api-v1": "*",
     "fabric-language-kotlin": "*",
-    "minecraft": "1.18.2",
-    "croptopia": "*"
+    "minecraft": "1.18.2"
   },
   "suggests": {
     "flamingo": "*",
