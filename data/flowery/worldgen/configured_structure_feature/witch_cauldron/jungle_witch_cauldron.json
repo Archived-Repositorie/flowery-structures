@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:village",
+    "config": {
+        "start_pool": "flowery:witch_cauldron/jungle_witch_cauldron",
+        "size": 1
+    },
+    "biomes": "#flowery:has_tree/jungle_small",
+    "adapt_noise": true,
+    "spawn_overrides": {
+        "monster": {
+            "bounding_box": "piece",
+            "spawns": [
+                {
+                    "type": "minecraft:witch",
+                    "weight": 1,
+                    "minCount": 1,
+                    "maxCount": 1
+                }
+            ]
+        }
+    }
+}

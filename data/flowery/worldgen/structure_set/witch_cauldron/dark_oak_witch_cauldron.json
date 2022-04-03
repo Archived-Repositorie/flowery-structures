@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:witch_cauldron/dark_oak_witch_cauldron",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 30,
+        "separation": 18,
+        "salt": 91283654
+    }
+}
