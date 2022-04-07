@@ -1,7 +1,7 @@
 {
     "structures": [
         {
-            "structure": "flowery:witch_cauldron/acacia_witch_cauldron",
+            "structure": "flowery:dungeon/water_dungeon",
             "weight": 1
         }
     ],
@@ -9,6 +9,6 @@
         "type": "minecraft:random_spread",
         "spacing": 25,
         "separation": 8,
-        "salt": 78961432
+        "salt": 6667893
     }
 }
