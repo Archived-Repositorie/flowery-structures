@@ -18,7 +18,7 @@ apply plugin: 'kotlinx-serialization'
 
 apply from: 'https://raw.githubusercontent.com/thedarkcolour/KotlinForForge/site/thedarkcolour/kotlinforforge/gradle/kff-3.1.0.gradle'
 
-version = '5'
+version = project.version
 group = 'io.github.justfoxx.flowery' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'flowery-forge'
 

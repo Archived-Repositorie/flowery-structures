@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:village",
+    "config": {
+        "start_pool": "flowery:dungeon/normal_dungeon",
+        "size": 1
+    },
+    "biomes": "#flowery:overworld/is_nature",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

@@ -50,9 +50,8 @@ Adds many new small structures and by doing that enchancing vanilla experience. 
     side="BOTH"
 # Here's another dependency
 [[dependencies.flowery]]
-    modId="minecraft"
-    mandatory=true
-# This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[1.18.2,1.19)"
+    modId="shutupexperimentalsettings"
+    mandatory=false
+    versionRange="[1.0.4,)"
     ordering="NONE"
-    side="BOTH"
+    side="CLIENT"
