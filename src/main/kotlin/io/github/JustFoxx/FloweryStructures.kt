@@ -1,22 +1,21 @@
 package io.github.JustFoxx
 
 import net.fabricmc.loader.api.FabricLoader
-import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 
-
+val Logger = LoggerFactory.getLogger("FloweryStructures")
 
 @Suppress("unused")
 fun init() {
-    val logger = LoggerFactory.getLogger("FloweryStructures")
+    Structure().registerStructureFeatures()
     val list = listOf("OwO", "UwU", "Flowewy!", "Magic", "Fabric > Forge", "Quilt, when?", "Fox or Umbreon")
-    logger.info(list.random())
     val supported = mapOf("croptopia" to "flowerycrop")
+    Logger.info(list.random())
     for(mod in supported) {
         if (FabricLoader.getInstance().isModLoaded(mod.key) && !FabricLoader.getInstance().isModLoaded(mod.value)) {
-            logger.warn("Mod ${mod.key} is loaded but ${mod.key} support mod is not loaded")
+            Logger.warn("Mod ${mod.key} is loaded but ${mod.key} support mod is not loaded")
         } else if(FabricLoader.getInstance().isModLoaded(mod.value)) {
-            logger.info("Support mod ${mod.value} has been loaded")
+            Logger.info("Support mod ${mod.value} has been loaded")
         }
     }
 }

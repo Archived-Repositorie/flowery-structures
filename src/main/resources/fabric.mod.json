@@ -19,7 +19,9 @@
       "io.github.JustFoxx.FloweryStructuresKt::init"
     ]
   },
-  "mixins": [],
+  "mixins": [
+    "flowery.mixin.json"
+  ],
   "depends": {
     "fabricloader": ">=0.8.7",
     "fabric-resource-loader-v0": "*",
