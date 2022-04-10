@@ -4,7 +4,7 @@
         "start_pool": "flowery:tree_chest/acacia_tree_chest",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/acacia",
+    "biomes": "#flowerycore:has_tree/acacia",
     "adapt_noise": true,
     "spawn_overrides": {}
 }

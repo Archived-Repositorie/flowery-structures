@@ -4,7 +4,7 @@
         "start_pool": "flowery:dungeon/sand_dungeon",
         "size": 1
     },
-    "biomes": "#flowery:overworld/is_sand",
+    "biomes": "#flowerycore:overworld/is_sand",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
