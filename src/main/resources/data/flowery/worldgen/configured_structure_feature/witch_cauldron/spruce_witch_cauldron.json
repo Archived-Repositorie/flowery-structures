@@ -4,7 +4,7 @@
         "start_pool": "flowery:witch_cauldron/spruce_witch_cauldron",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/spruce",
+    "biomes": "#flowerycore:has_tree/spruce",
     "adapt_noise": true,
     "spawn_overrides": {
         "monster": {

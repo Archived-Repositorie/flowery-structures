@@ -16,18 +16,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.JustFoxx.FloweryStructuresKt::init"
     ]
   },
   "mixins": [
-    "flowery.mixin.json"
   ],
   "depends": {
     "fabricloader": ">=0.8.7",
     "fabric-resource-loader-v0": "*",
     "fabric-resource-conditions-api-v1": "*",
-    "fabric-language-kotlin": "*",
-    "minecraft": "1.18.2"
+    "minecraft": "1.18.2",
+    "flowerycore": ">=1"
   },
   "suggests": {
     "flamingo": "*",
