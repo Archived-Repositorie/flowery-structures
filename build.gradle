@@ -5,21 +5,13 @@ buildscript {
     }
     dependencies {
         classpath group: 'net.minecraftforge.gradle', name: 'ForgeGradle', version: '5.1.+', changing: true
-        // Make sure this version matches the one included in Kotlin for Forge
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10'
-        // OPTIONAL Gradle plugin for Kotlin Serialization
-        classpath 'org.jetbrains.kotlin:kotlin-serialization:1.6.10'
     }
 }
 
 apply plugin: 'net.minecraftforge.gradle'
-apply plugin: 'kotlin'
-apply plugin: 'kotlinx-serialization'
-
-apply from: 'https://raw.githubusercontent.com/thedarkcolour/KotlinForForge/site/thedarkcolour/kotlinforforge/gradle/kff-3.1.0.gradle'
 
 version = project.version
-group = 'io.github.justfoxx.flowery' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group = 'useless' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'flowery-forge'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.

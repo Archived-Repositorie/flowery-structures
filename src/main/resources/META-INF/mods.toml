@@ -4,7 +4,7 @@
 # Note that there are a couple of TOML lists in this file.
 # Find more information on toml format here:  https://github.com/toml-lang/toml
 # The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
-modLoader="kotlinforforge"
+modLoader="javafml"
 # Change this if you require a certain version of KotlinForForge
 loaderVersion="[3,)"
 # The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
@@ -38,17 +38,18 @@ Adds many new small structures and by doing that enchancing vanilla experience. 
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.flowery]] #optional
-    # the modid of the dependency
     modId="forge" #mandatory
-    # Does this dependency have to exist - if not, ordering below must be specified
     mandatory=true #mandatory
-    # The version range of the dependency
     versionRange="[40,)" #mandatory
-    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
     ordering="NONE"
-    # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
-# Here's another dependency
+[[dependencies.flowery]] #optional
+    modId="flowerycore" #mandatory
+    mandatory=true #mandatory
+    versionRange="[1,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
 [[dependencies.flowery]]
     modId="shutupexperimentalsettings"
     mandatory=false

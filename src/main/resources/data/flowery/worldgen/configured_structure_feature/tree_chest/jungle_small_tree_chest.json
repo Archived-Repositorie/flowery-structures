@@ -4,7 +4,7 @@
         "start_pool": "flowery:tree_chest/jungle_small_tree_chest",
         "size": 1
     },
-    "biomes": "#flowery:has_tree/jungle_big",
+    "biomes": "#flowerycore:has_tree/jungle_big",
     "adapt_noise": true,
     "spawn_overrides": {}
 }

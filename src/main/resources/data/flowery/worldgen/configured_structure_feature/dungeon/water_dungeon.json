@@ -1,9 +1,10 @@
 {
-    "type": "minecraft:village",
+    "type": "flowerycore:water",
     "config": {
-        "start_pool": "flowery:raft/villager_raft",
+        "start_pool": "flowery:dungeon/water_dungeon",
         "size": 1
     },
     "biomes": "#flowerycore:overworld/is_water",
+    "adapt_noise": true,
     "spawn_overrides": {}
 }
