@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:other/jungle_sit",
+        "size": 1
+    },
+    "biomes": "#flowerycore:has_tree/jungle_big",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

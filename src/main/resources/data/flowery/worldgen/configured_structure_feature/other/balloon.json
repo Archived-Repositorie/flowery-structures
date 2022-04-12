@@ -1,0 +1,9 @@
+{
+    "type": "flowerycore:air",
+    "config": {
+        "start_pool": "flowery:other/balloon",
+        "size": 1
+    },
+    "biomes": "#flowerycore:is_overworld",
+    "spawn_overrides": {}
+}

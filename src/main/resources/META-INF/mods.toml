@@ -46,7 +46,7 @@ Adds many new small structures and by doing that enchancing vanilla experience. 
 [[dependencies.flowery]] #optional
     modId="flowerycore" #mandatory
     mandatory=true #mandatory
-    versionRange="[1,)" #mandatory
+    versionRange="[3,)" #mandatory
     ordering="NONE"
     side="BOTH"
 

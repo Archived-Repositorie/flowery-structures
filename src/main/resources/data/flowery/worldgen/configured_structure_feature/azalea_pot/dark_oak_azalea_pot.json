@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:village",
+    "type": "flowerycore:land",
     "config": {
         "start_pool": "flowery:azalea_pot/dark_oak_azalea_pot",
         "size": 1
