@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:flower/poppy",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 758483
+    }
+}

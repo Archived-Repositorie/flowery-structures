@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:village",
+    "type": "flowerycore:land",
     "config": {
         "start_pool": "flowery:dungeon/normal_dungeon",
         "size": 1

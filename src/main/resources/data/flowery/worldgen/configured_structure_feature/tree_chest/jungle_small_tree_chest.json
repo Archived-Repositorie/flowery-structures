@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:village",
+    "type": "flowerycore:land",
     "config": {
         "start_pool": "flowery:tree_chest/jungle_small_tree_chest",
         "size": 1

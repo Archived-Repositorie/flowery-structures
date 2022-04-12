@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:well/normal_well",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 18,
+        "salt": 21588543
+    }
+}

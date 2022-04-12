@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:village",
+    "type": "flowerycore:land",
     "config": {
         "start_pool": "flowery:witch_cauldron/jungle_witch_cauldron",
         "size": 1

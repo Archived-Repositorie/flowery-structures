@@ -25,7 +25,7 @@
     "fabric-resource-loader-v0": "*",
     "fabric-resource-conditions-api-v1": "*",
     "minecraft": "1.18.2",
-    "flowerycore": ">=1"
+    "flowerycore": ">=3"
   },
   "suggests": {
     "flamingo": "*",
