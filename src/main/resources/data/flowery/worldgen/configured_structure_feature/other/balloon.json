@@ -5,6 +5,5 @@
         "size": 1
     },
     "biomes": "#flowerycore:is_overworld",
-    "adapt_noise": true,
     "spawn_overrides": {}
 }
