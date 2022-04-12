@@ -4,7 +4,7 @@
         "start_pool": "flowery:flower/blue_orchid",
         "size": 1
     },
-    "biomes": "#biome",
+    "biomes": "#flowerycore:has_flower/blue_orchid",
     "adapt_noise": true,
     "spawn_overrides": {}
 }

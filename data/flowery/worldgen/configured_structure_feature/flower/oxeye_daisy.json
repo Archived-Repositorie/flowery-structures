@@ -4,7 +4,7 @@
         "start_pool": "flowery:flower/oxeye_daisy",
         "size": 1
     },
-    "biomes": "#biome",
+    "biomes": "#flowerycore:has_flower/oxeye_daisy",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
