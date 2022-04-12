@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:flower/oxeye_daisy",
+        "size": 1
+    },
+    "biomes": "#biome",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}
