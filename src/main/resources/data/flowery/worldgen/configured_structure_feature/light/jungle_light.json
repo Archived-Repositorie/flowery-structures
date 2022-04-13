@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:light/jungle_light",
+        "size": 1
+    },
+    "biomes": "#flowerycore:has_tree/jungle",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

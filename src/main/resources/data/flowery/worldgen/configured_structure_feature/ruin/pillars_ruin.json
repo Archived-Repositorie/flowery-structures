@@ -1,0 +1,9 @@
+{
+    "type": "flowerycore:water",
+    "config": {
+        "start_pool": "flowery:ruin/pillars_ruin",
+        "size": 1
+    },
+    "biomes": "#flowerycore:is_overworld",
+    "spawn_overrides": {}
+}

@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:hay_bale/small_stack",
+        "size": 1
+    },
+    "biomes": "#flowerycore:overworld/is_nature",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

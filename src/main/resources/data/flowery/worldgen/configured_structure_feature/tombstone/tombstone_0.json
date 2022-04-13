@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:tombstone/tombstone_0",
+        "size": 1
+    },
+    "biomes": "#flowerycore:overworld/is_land",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}
