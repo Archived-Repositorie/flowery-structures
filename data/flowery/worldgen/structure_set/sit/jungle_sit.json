@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:sit/jungle_sit",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 2257942
+    }
+}

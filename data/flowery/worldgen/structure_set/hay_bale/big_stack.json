@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:hay_bale/big_stack",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 3928456
+    }
+}

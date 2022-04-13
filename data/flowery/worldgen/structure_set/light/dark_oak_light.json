@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:light/dark_oak_light",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 4488877
+    }
+}

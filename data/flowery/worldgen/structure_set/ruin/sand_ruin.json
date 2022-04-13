@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:ruin/sand_ruin",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 6551566
+    }
+}

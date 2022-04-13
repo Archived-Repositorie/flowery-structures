@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:tree/acacia_tree_1",
+        "size": 1
+    },
+    "biomes": "#flowerycore:has_tree/acacia",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

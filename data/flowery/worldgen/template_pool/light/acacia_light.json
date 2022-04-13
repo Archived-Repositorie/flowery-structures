@@ -1,0 +1,15 @@
+{
+    "name": "flowery:acacia_light",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "processors": "minecraft:empty",
+                "location": "flowery:light/acacia_light"
+            }
+        }
+    ]
+}
