@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:light/dark_oak_light",
+        "size": 1
+    },
+    "biomes": "#flowerycore:has_tree/dark_oak",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

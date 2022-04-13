@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:land",
+    "config": {
+        "start_pool": "flowery:sit/birch_sit",
+        "size": 1
+    },
+    "biomes": "#flowerycore:has_tree/birch",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}

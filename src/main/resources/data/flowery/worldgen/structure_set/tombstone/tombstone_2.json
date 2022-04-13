@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:tombstone/tombstone_2",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 25,
+        "separation": 8,
+        "salt": 1722441
+    }
+}
