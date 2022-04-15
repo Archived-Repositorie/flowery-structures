@@ -4,7 +4,7 @@
         "start_pool": "flowery:scary/jungle_scary",
         "size": 1
     },
-    "biomes": "#flowerycore:has_tree/big_jungle",
+    "biomes": "#flowerycore:has_tree/jungle_big",
     "adapt_noise": true,
     "spawn_overrides": {}
 }
