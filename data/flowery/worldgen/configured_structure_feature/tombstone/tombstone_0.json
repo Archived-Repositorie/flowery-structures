@@ -6,5 +6,6 @@
     },
     "biomes": "#flowerycore:overworld/is_land",
     "adapt_noise": true,
-    "spawn_overrides": {}
+    "spawn_overrides": {},
+    ""
 }

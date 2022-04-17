@@ -1,0 +1,69 @@
+{
+    "structures": [
+		{
+            "structure": "flowery:other/balloon",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/villager",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:raft/dead_raft",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:raft/villager_raft",
+            "weight": 1
+        },
+        
+
+
+        {
+            "structure": "flowery:tree_chest/acacia_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/birch_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/dark_oak_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/jungle_big_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/jungle_small_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/oak_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree_chest/spruce_tree_chest",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:well/normal_well",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:well/sand_well",
+            "weight": 1
+        }
+        
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 40,
+        "separation": 22,
+        "salt": 256186713
+    }
+}
