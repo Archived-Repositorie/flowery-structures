@@ -1,11 +1,22 @@
 {
     "structures": [
-		{
-            "structure": "flowery:other/balloon",
+        {
+            "structure": "flowery:obelisk/normal",
             "weight": 1
         },
         {
-            "structure": "flowery:other/villager",
+            "structure": "flowery:obelisk/sand",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:obelisk/water",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:other/balloon",
             "weight": 1
         },
         
@@ -21,7 +32,29 @@
         },
         
 
+        
+        {
+            "structure": "flowery:sphinx/cimson",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sphinx/warped",
+            "weight": 1
+        },
+        
 
+        
+        {
+            "structure": "flowery:trader/normal",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:trader/sand",
+            "weight": 1
+        },
+        
+
+        
         {
             "structure": "flowery:tree_chest/acacia_tree_chest",
             "weight": 1
@@ -50,6 +83,9 @@
             "structure": "flowery:tree_chest/spruce_tree_chest",
             "weight": 1
         },
+        
+
+        
         {
             "structure": "flowery:well/normal_well",
             "weight": 1
@@ -58,7 +94,6 @@
             "structure": "flowery:well/sand_well",
             "weight": 1
         }
-        
     ],
     "placement": {
         "type": "minecraft:random_spread",

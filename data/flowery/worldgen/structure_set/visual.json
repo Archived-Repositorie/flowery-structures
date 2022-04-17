@@ -149,6 +149,10 @@
             "structure": "flowery:garden/lake",
             "weight": 1
         },
+        {
+            "structure": "flowery:garden/sand",
+            "weight": 1
+        },
         
 
         
@@ -200,6 +204,14 @@
         },
         {
             "structure": "flowery:other/lamp",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/chair",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/sand_hut",
             "weight": 1
         },
         
