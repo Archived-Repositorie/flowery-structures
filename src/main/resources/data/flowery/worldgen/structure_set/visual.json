@@ -1,0 +1,406 @@
+{
+    "structures": [
+        {
+            "structure": "flowery:azalea_pot/acacia_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:azalea_pot/acacia_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:azalea_pot/dark_oak_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:azalea_pot/jungle_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:azalea_pot/oak_azalea_pot",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:azalea_pot/spruce_azalea_pot",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:cart/hay_cart",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:cart/spider_cart",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:dungeon/normal_dungeon",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:dungeon/sand_dungeon",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:dungeon/water_dungeon",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:entry/entry_broken",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:entry/entry_closed",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:entry/entry_open",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:farm/died_farm",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:farm/full_farm",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:farm/half_farm",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:flower/allium",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/azurebluet",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/blue_orchid",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/dandelion",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/orange_tulip",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/oxeye_daisy",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/pink_tulip",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/poppy",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/red_tulip",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:flower/white_tulip",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:fountain/medieval",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:fountain/very_old",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:garden/dead",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:garden/flower",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:garden/lake",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:garden/sand",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:hay_bale/big_stack",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:hay_bale/medium_stack",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:hay_bale/small_stack",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:light/acacia_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:light/birch_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:light/dark_oak_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:light/jungle_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:light/oak_light",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:light/spruce_light",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:other/jungle_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/lamp",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/chair",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:other/sand_hut",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:ruin/normal_ruin",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:ruin/pillars_ruin",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:ruin/sand_ruin",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:scary/acacia_scary",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:scary/birch_scary",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:scary/dark_oak_scary",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:scary/jungle_scary",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:scary/oak_scary",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:scary/spruce_scary",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:sit/acacia_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sit/birch_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sit/dark_oak_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sit/jungle_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sit/oak_sit",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:sit/spruce_sit",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:tombstone/tombstone_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tombstone/tombstone_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tombstone/tombstone_2",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tombstone/tombstone_big_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tombstone/tombstone_big_1",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:tower/fire_tower",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tower/soul_fire_tower",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:tree/acacia_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/acacia_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/birch_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/birch_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/dark_oak_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/dark_oak_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/jungle_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/jungle_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/oak_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/oak_tree_1",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/spruce_tree_0",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:tree/spruce_tree_1",
+            "weight": 1
+        },
+        
+
+        
+        {
+            "structure": "flowery:witch_cauldron/acacia_witch_cauldron",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:witch_cauldron/birch_witch_cauldron",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:witch_cauldron/dark_oak_witch_cauldron",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:witch_cauldron/jungle_witch_cauldron",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:witch_cauldron/oak_witch_cauldron",
+            "weight": 1
+        },
+        {
+            "structure": "flowery:witch_cauldron/spruce_witch_cauldron",
+            "weight": 1
+        }
+
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 20,
+        "separation": 8,
+        "salt": 145975692
+    }
+}

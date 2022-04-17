@@ -1,0 +1,10 @@
+{
+    "type": "flowerycore:water",
+    "config": {
+        "start_pool": "flowery:obelisk/water",
+        "size": 1
+    },
+    "biomes": "#flowerycore:overworld/is_water",
+    "adapt_noise": true,
+    "spawn_overrides": {}
+}
