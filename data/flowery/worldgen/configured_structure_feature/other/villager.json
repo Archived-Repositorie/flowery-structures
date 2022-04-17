@@ -1,7 +1,7 @@
 {
     "type": "flowerycore:land",
     "config": {
-        "start_pool": "flowery:other/villager",
+        "start_pool": "flowery:trader/normal",
         "size": 1
     },
     "biomes": "#flowerycore:overworld/is_nature",
