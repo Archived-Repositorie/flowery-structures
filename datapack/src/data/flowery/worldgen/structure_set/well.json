@@ -1,0 +1,42 @@
+{
+  "structures": [
+    {
+      "weight": 1,
+      "structure": "flowery:well/brick"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/copper"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/dirt"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/ice"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/mud"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/mushroom"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/red_sand"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:well/sand"
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 9770891,
+    "spacing": 20,
+    "separation": 10
+  }
+}
