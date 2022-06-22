@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "minecraft:flower_forest"
-    ]
+  "replace": false,
+  "values": ["minecraft:flower_forest"]
 }

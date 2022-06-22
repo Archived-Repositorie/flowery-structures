@@ -1,6 +1,4 @@
 {
-    "replace": false,
-    "values": [
-        "minecraft:desert"
-    ]
+  "replace": false,
+  "values": ["minecraft:desert"]
 }
