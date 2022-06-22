@@ -1,4 +1,8 @@
 {
   "replace": false,
-  "values": ["minecraft:sunflower_plains", "minecraft:plains"]
+  "values": [
+    "minecraft:sunflower_plains",
+    "minecraft:plains",
+    "minecraft:meadow"
+  ]
 }

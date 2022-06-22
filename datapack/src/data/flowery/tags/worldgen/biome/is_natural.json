@@ -44,6 +44,10 @@
     {
       "id": "#c:vegetation_dense",
       "required": false
+    },
+    {
+      "id": "minecraft:meadow",
+      "required": false
     }
   ]
 }
