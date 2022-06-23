@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#flowery:birch_forest",
+  "biomes": "#flowery:has_structure/pot/birch",
   "spawn_overrides": {},
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",

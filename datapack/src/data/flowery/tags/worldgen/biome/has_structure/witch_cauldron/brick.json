@@ -3,6 +3,10 @@
   "values": [
     "minecraft:sunflower_plains",
     "minecraft:plains",
-    "minecraft:meadow"
+    "minecraft:meadow",
+    {
+      "required": false,
+      "id": "#c:plains"
+    }
   ]
 }

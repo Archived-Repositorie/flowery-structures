@@ -1,15 +1,13 @@
 {
   "replace": false,
   "values": [
+    "minecraft:frozen_peaks",
+    "minecraft:ice_spikes",
     "minecraft:grove",
     "minecraft:jagged_peaks",
     "minecraft:taiga",
     "minecraft:snowy_taiga",
     "minecraft:old_growth_spruce_taiga",
-    "minecraft:old_growth_pine_taiga",
-    {
-      "id": "#c:icy",
-      "required": false
-    }
+    "minecraft:old_growth_pine_taiga"
   ]
 }
