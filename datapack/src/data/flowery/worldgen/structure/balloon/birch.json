@@ -3,7 +3,6 @@
   "biomes": "#flowery:has_structure/balloon/birch",
   "spawn_overrides": {},
   "step": "surface_structures",
-  "terrain_adaptation": "beard_thin",
   "size": 1,
   "start_pool": "flowery:balloon/birch",
   "start_height": {
