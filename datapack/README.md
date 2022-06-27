@@ -13,4 +13,4 @@
 ### Download
 - [Here For CurseForge](https:example.com)
 - [Here For PlanetMinecraft](https:example.com)
-- [Here For GitHub Release](https:example.com)
+- [Here For GitHub Release](https:example.com) **File will be called `datapack x [x]` (x means any number)**
