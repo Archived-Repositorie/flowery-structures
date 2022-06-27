@@ -8,3 +8,6 @@
 4. Go to folder `./config/openloader/data`
 5. Download this configuration datapack and drop into that folder
 6. Now you can costumize mod!
+
+### Download 
+**To download datapack go to [Github Releases](https://github.com/Flowery-Structures/flowery-structures/releases) and find file under called `datapack-conf x [x]` (x means any number)**
