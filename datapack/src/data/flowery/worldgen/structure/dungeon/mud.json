@@ -3,7 +3,6 @@
   "biomes": "#flowery:has_structure/dungeon/mud",
   "spawn_overrides": {},
   "step": "surface_structures",
-  "terrain_adaptation": "beard_thin",
   "size": 1,
   "start_pool": "flowery:dungeon/mud",
   "start_height": {
