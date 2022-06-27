@@ -10,4 +10,4 @@
 6. Now you can costumize mod!
 
 ### Download 
-**To download datapack go to [Github Releases](https://github.com/Flowery-Structures/flowery-structures/releases) and find file under called `datapack-conf x [x]` (x means any number)**
+**To download datapack go to [Github Releases](https://github.com/Flowery-Structures/flowery-structures/releases) and find file under called `datapack-conf x [x].zip` (x means any number)**
