@@ -1,0 +1,8 @@
+{
+    "values": [
+        "flowery:dungeon/dirt",
+        "flowery:dungeon/mud",
+        "flowery:dungeon/sand",
+        "flowery:dungeon/stone"
+    ]
+}
