@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "flowery:trade/plains",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 6446688,
+    "spacing": 20,
+    "separation": 10
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "structures": [
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/acacia"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/birch"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/brick"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/dark_oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/jungle"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/mangrove"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/mud"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/nether"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/spruce"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:witch_cauldron/stone"
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 59634,
+    "spacing": 20,
+    "separation": 10
+  }
+}

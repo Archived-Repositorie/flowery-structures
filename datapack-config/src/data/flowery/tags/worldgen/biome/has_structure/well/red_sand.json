@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_badlands",
+    {
+      "required": false,
+      "id": "#c:mesa"
+    },
+    {
+      "required": false,
+      "id": "#c:badlands"
+    }
+  ]
+}

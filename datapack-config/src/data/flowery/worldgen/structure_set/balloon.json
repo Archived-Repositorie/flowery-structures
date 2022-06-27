@@ -1,0 +1,38 @@
+{
+  "structures": [
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/acacia"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/birch"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/dark_oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/jungle"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/mangrove"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:balloon/spruce"
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 5516303,
+    "spacing": 20,
+    "separation": 10
+  }
+}

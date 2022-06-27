@@ -1,0 +1,38 @@
+{
+  "structures": [
+    {
+      "weight": 1,
+      "structure": "flowery:pot/mangrove"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/birch"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/acacia"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/dark_oak"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/jungle"
+    },
+    {
+      "weight": 1,
+      "structure": "flowery:pot/spruce"
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 6168650,
+    "spacing": 20,
+    "separation": 10
+  }
+}

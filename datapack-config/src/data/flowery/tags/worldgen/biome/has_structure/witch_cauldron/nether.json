@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_nether",
+    "#minecraft:is_badlands",
+    "#minecraft:is_savanna",
+    "minecraft:desert",
+    {
+      "required": false,
+      "id": "#c:desert"
+    },
+    {
+      "required": false,
+      "id": "#c:mesa"
+    },
+    {
+      "required": false,
+      "id": "#c:badlands"
+    },
+    {
+      "required": false,
+      "id": "#c:wasteland"
+    },
+    {
+      "required": false,
+      "id": "#c:dead"
+    }
+  ]
+}

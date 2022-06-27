@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_jungle",
+    {
+      "required": false,
+      "id": "#c:jungle"
+    }
+  ]
+}

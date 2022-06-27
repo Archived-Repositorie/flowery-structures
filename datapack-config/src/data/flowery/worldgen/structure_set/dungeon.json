@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "flowery:dungeon/dirt",
+      "weight": 1
+    },
+    {
+      "structure": "flowery:dungeon/mud",
+      "weight": 1
+    },
+    {
+      "structure": "flowery:dungeon/sand",
+      "weight": 1
+    },
+    {
+      "structure": "flowery:dungeon/stone",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 639122,
+    "spacing": 20,
+    "separation": 10
+  }
+}

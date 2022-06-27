@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:is_hill",
+    "#minecraft:is_mountain",
+    {
+      "required": false,
+      "id": "#c:mountain"
+    },
+    {
+      "required": false,
+      "id": "#c:mountain_peak"
+    },
+    {
+      "required": false,
+      "id": "#c:mountain_slope"
+    }
+  ]
+}
