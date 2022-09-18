@@ -1,0 +1,2 @@
+scoreboard players set @s flowerystructures_joined 1
+tellraw @a ["",{"text":"Thanks for installing ","bold":true},{"text":"\u273fFlowery Structures\u273f","bold":true,"color":"light_purple","clickEvent":{"action":"open_url","value":"https://github.com/Flowery-Structures/flowery-structures"}},{"text":"! ","bold":true}]

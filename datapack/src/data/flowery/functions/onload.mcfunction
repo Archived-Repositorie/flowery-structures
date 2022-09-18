@@ -1,0 +1,2 @@
+scoreboard objectives add flowerystructures_joined dummy
+tellraw @a ["",{"text":"Flowery Structures","bold":true,"color":"light_purple","hoverEvent":{"action":"show_text","contents":"Created by JustFoxx"}},{"text":" has been loaded!","bold":true,"color":"light_purple"}]
